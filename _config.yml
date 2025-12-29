@@ -25,20 +25,20 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kumarmangalam Jain Patravali"
-  pronouns         : # example: "he/him"  
-  bio              : "Historian of science"
+  pronouns         : "he/him"  
+  bio              : "Historian of Science"
   location         : "Samarkhand, Skiathos and Frankfurt"
   employer         : "Goethe Universität Frankfurt"
   uri              : # URL
   email            : "kumarmangalampatravali@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://uni-frankfurt.academia.edu/KumarmangalamPatravali"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=-anR9ZAAAAAJ&view_op=list_works&gmla=AElLoL0h-hoWKUffrdX1VH85rMwKIuLAZRzKzE08GHANpzb3wnyQFXOXFbLm3DYFKS6XKJpoIK7nXUufu9H7FWA0R1MAr8VPl1sJSXQeOf0"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-7519-7708"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -55,13 +55,13 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "nanospitogatos.bsky.social" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/kumarmangalam.patravali"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/nanowimbledon2000/"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
