@@ -23,7 +23,7 @@ repository               : "jainpatravali-wissenschaftsgeschichte/jainpatravali-
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/git_profilepic.jpeg"
+  avatar           : assets/images/git_profilepic.jpeg
   name             : "Kumarmangalam Jain Patravali"
   pronouns         : # example: "he/him"  
   bio              : "Historian of science"
