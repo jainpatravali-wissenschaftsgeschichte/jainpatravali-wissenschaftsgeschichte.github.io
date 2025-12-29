@@ -24,13 +24,13 @@ repository               : "jainpatravali-wissenschaftsgeschichte/jainpatravali-
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Kumarmangalam Jain Patravali"
+  pronouns         : # example: "he/him"  
+  bio              : "Historian of science"
+  location         : "Samarkhand, Skiathos and Frankfurt"
+  employer         : "formerly: Goethe Universität Frankfurt"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kumarmangalamjr@gmail.com" 
 
   # Academic websites
   academia         : # URL
