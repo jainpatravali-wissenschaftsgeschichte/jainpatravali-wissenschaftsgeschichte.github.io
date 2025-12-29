@@ -84,7 +84,7 @@ If you have bugfixes and enhancements that you would like to submit as a pull re
 Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
 
 
-<img src="profile.png" alt="Alt Text" width="300" height="200">
+<img src="profile.png" alt="Alt Text" width="300" height="500">
 
 ---
 <div align="center">
